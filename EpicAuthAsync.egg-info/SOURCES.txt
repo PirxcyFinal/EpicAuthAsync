@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+EpicAuthAsync/__init__.py
+EpicAuthAsync/typing_definitions.py
+EpicAuthAsync.egg-info/PKG-INFO
+EpicAuthAsync.egg-info/SOURCES.txt
+EpicAuthAsync.egg-info/dependency_links.txt
+EpicAuthAsync.egg-info/top_level.txt
